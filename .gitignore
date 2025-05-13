@@ -1,0 +1,17 @@
+# Node.js/React
+client/node_modules/
+client/build/
+client/.env
+client/.env.local
+
+# PHP/XAMPP
+server/.env
+server/composer.lock
+
+# Database credentials
+server/config/database.php
+
+# Logs and temp files
+*.log
+.DS_Store
+Thumbs.db
